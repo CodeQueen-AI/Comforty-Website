@@ -11,9 +11,11 @@ Excited to share my latest Next.js project – Comforty, an elegant and user-fri
 https://comforty-website-e958.vercel.app/
 
 # 📌 Tech Stack
+
 🔹 Next.js – For a fast & optimized frontend
-🔹 React.js – Smooth & interactive UI
+
 🔹 Tailwind CSS – Modern & responsive design
+
 🔹 State Management – Efficient cart functionality
 
 ✨ Built for a hassle-free shopping experience by *Code Queen* 👑🚀
